@@ -1,0 +1,2 @@
+# Frontend Nanodegree Project 1 Version 2
+This is a repository of a project that I create to fulfil the requirement to pass Project P1: Mockup to Website which is a part of Frontend Nanodegree program.
