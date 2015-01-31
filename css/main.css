@@ -1,0 +1,28 @@
+/* General */
+body {
+	margin: 0 auto;
+    font: 1.6em/200% "Lucida Grande", sans-serif;
+    color: #666;
+}
+
+
+/* Headings */
+h2 {
+	font: bold 1.5em/100% "Lucida Grande", sans-serif;
+    color: #f07c17;
+    margin: 0 auto 32px;
+}
+
+.title {
+	margin: 45px auto 34px;
+    text-align: center;
+    font: 3em/100% "Lucida Grande", sans-serif;
+}
+
+
+/* Main-features Section */
+.main-features {
+	margin: 30px 0;
+    border: solid 1px #ccc;
+    padding: 30px;
+}
